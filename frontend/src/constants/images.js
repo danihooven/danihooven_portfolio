@@ -35,6 +35,10 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import software_engineer from '../assets/software_engineer.png';
+import web_developer from '../assets/web_developer.png';
+import data_analytics from '../assets/data_analytics.png';
+
 export default {
   email,
   mobile,
@@ -69,4 +73,7 @@ export default {
   nb,
   skype,
   spotify,
+  software_engineer,
+  web_developer,
+  data_analytics
 };
